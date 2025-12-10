@@ -1,0 +1,39 @@
+👋 Hey everyone !! Here is the basic file of tele nc and spam just save it and open it in mt manager replace bot tokens there are 5 place for token u could enter 5 tokens don't try to modify it is for safety of ur bot ☺️ and make sure to add owner id too .
+
+->Then go to github upload the file in a new repo and save .
+
+->Now come to @chocombo_bot 
+type these commands 
+-) git clone (your repo link )
+-) cd (your repo name)
+-) nohup python3 tgnc.py > log.txt 2>&1 & 
+
+
+----------⭐ Note - don't change the file name-----------
+
+
+
+->>Bot must be admin in the group 
+--->>Use these commands in groups
+/gcnc (targetname) ✅ 
+/gcnc@XYZBOT (targetname) ❌ 
+
+---Here are brief explanation of
+commands---
+
+
+->/gcnc - use this with target name and see magic 
+
+->/ncmeo - use this with line like Haters R@n@d ... it will use this line and just add different emojis at end and see magic ✨ 
+
+->/delay - set delay (/delay 0.3 max dealy)
+
+->/targetslide&/slidespam - just slide reply this command to haters msg in gc and see magic whenever hater msg 🤠 the bot will handle him 
+
+->/swipe - Use this with any name (/slide haters) if nay one user will msg the bots will handle them 😍
+
+-> /addsudo - slide reply to users msg to add them as a sudo 
+That's it 😺 ✓✓
+
+We will get a updates and more fast and more killer version for it stay tuned and updated .....💢💢
+Thanks !!! 
